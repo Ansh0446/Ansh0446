@@ -41,6 +41,8 @@ Hi, I'm Ansh, a developer passionate about building practical solutions and expl
 > “Pressure doesn’t slow me down—it helps me deliver my best work.”
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ansh0446/Ansh0446/output/ocean.gif" alt="Contribution Snake">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh0446/Ansh0446/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh0446/Ansh0446/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh0446/Ansh0446/output/github-snake.svg" />
+</picture>
