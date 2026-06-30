@@ -42,5 +42,5 @@ Hi, I'm Ansh, a developer passionate about building practical solutions and expl
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansh446/ansh446/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Ansh0446/Ansh0446/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
