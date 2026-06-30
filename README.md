@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>Developing an AI-driven Student Performance Predictor that generates personalized learning roadmaps, alongside building responsive and user-focused web applications.<br><br>🤝 I’m looking to collaborate on<br>Projects in Artificial Intelligence, Data Science, Web Development, and Cybersecurity, where I can contribute while continuously expanding my skill set.<br><br>🛠️ I’m looking for help with<br>Enhancing machine learning model performance, optimizing real-world deployment, and integrating AI solutions into scalable full-stack systems.<br><br>🌱 I’m currently learning<br>Core programming languages including Python, Java, C++, and C, while deepening my understanding of Machine Learning, Data Science, and foundational Cybersecurity concepts.<br><br>💬 Ask me about<br>AI-based project development, beginner-to-intermediate programming, and practical approaches to learning and building in tech.<br><br>⚡ Fun fact<br>I thrive under pressure — I often work close to deadlines and still manage to deliver highly refined and effective results.
+Hi, I'm Ansh, a developer passionate about building practical solutions and exploring emerging technologies. I use this space to share my projects, learn in public, and track my progress.
 
 
 ## 🌐 Socials:
